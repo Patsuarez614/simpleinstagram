@@ -6,14 +6,79 @@
 </head>
 
     <body>
-    	<header><h1>Instabook Photo Feed</h1></header>	
+    	<header>
+    		<div class="boxhead">
+    			<h1>Instabook Photo Feed</h1>
+    		</div>	
+    	</header><br>	
+    <div class="box">
         <div class="post">
-            <div></div>
-            <div></div>
-            <div></div>
+            <div class="left">
+            	<h2>Picture #1</h2>
+            </div>
+            <span>
+            	<div class="date"><br>
+            	08/23/2018
+            	</div>
+        	</span>
+            <div>
+            	<img src="https://placeimg.com/550/400/arch"></img>
+            </div>
+            <div>
+              <p>Architecture should speak of its time and place, but yearn for timelessness.... <strong>#Breathecode</strong></p>	
+            </div>
         </div>    
-        
+         <div class="post">
+            <div class="left">
+            	<h2>Picture #2</h2>
+            </div>
+            <span>
+            	<div class="date"><br>
+            	08/23/2018
+            	</div>
+        	</span>
+            <div>
+            	<img src="https://placeimg.com/550/400/nature"></img>
+            </div>
+            <div>
+              <p>Become one with Nature... <strong>#Breathecode</strong> </p>	
+            </div>
+        </div>    
+         <div class="post">
+            <div class="left">
+            	<h2>Picture #3</h2>
+            </div>
+            <span>
+            	<div class="date"><br>
+            	08/23/2018
+            	</div>
+        	</span>
+            <div>
+            	<img src="https://placeimg.com/550/400/animals"></img>
+            </div>
+            <div>
+              <p>Creatures :) <strong>#Breathecode</strong> </p>	
+            </div>
+        </div>    
+         <div class="post">
+            <div class="left">
+            	<h2>Picture #4</h2>
+            </div>
+            <span>
+            	<div class="date"><br>
+            	08/23/2018
+            	</div>
+        	</span>
+            <div>
+            	<img src="https://placeimg.com/550/400/people"></img>
+            </div>
+            <div>
+              <p>Random People <strong>#Breathecode</strong></p>	
+            </div>
+        </div>    
       
+    </div>
+  
       
     </body>	
 
