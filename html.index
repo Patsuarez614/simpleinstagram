@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<title>Instabook Photo Feed</title>
+</head>
+
+    <body>
+    	<header><h1>Instabook Photo Feed</h1></header>	
+        <div class="post">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>    
+        
+      
+      
+    </body>	
+
+</html>
